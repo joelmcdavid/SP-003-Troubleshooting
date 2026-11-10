@@ -58,10 +58,12 @@ By the end of this repository you will be able to:
 
 ---
 
-## Previous Stage
+---
 
-⬅️ SP-002 Production Thinking
+## Continue Your Journey
 
-## Next Stage
+⬅️ Previous Stage: [SP-002 Production Thinking](https://github.com/joelmcdavid/SP-002-Production-Thinking)
 
-➡️ SP-004 Architecture
+➡️ Next Stage: [SP-004 Architecture](https://github.com/joelmcdavid/SP-004-Architecture)
+
+The best troubleshooters eventually become architects.
